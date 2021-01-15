@@ -1,0 +1,52 @@
+.upper-background img{
+    width: 100%;
+}
+.upper-background{
+    width: 20%;
+}
+nav li{
+    list-style: none;
+    float: right;;
+    padding: 20px;
+}
+nav a{
+    text-decoration: none;
+    color: gray;
+    font-size: 20px;
+}
+.image-add img{
+    width: 30%;
+    float: right;
+}
+.top{
+    border: 2px solid rgb(245, 245, 245);
+    background-color: rgb(245, 239, 240);
+
+}
+.buy-button{
+    background-color: rgb(46, 93, 246);
+    width: 200px;
+    height: 50px;
+    border:2px solid rgb(46, 93, 246);
+    border-radius: 20px;
+}
+#chat-img{
+    width: 10px;
+}
+.make-half{
+    width: 30%;
+}
+.winter-jacket img{
+    width: 30%;
+}
+.winter-jacket{
+    border: 1px solid gray;
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+.buy-now{
+    border:2px solid green;
+    background-color: green;
+    background-image: -moz-linear-gradient(Logo, Icon/shopping-cart 1.png);
+}
